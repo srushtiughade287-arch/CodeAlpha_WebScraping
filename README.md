@@ -1,17 +1,17 @@
 # Ask meaningful questions
 
-What is the total number of quotes in the dataset?
-How many unique authors are represented?
-Which author has contributed the most quotes?
-Are there any missing values in the Quote or Author columns?
-Are there any duplicate quotes or duplicate records?
-What is the average length of a quote?
-Which quote is the longest and which is the shortest?
-Do some authors tend to have longer quotes than others?
-Is the distribution of quotes balanced across authors, or are a few authors dominating the dataset?
-Are there any unusual characters, formatting issues, or inconsistencies in the text data?
-What themes or topics appear most frequently in the quotes?
-Is the dataset suitable for further text analysis, sentiment analysis, or visualization?
+1. What is the total number of quotes in the dataset?
+2. How many unique authors are represented?
+3.Which author has contributed the most quotes?
+4.Are there any missing values in the Quote or Author columns?
+5.Are there any duplicate quotes or duplicate records?
+6.What is the average length of a quote?
+7.Which quote is the longest and which is the shortest?
+8.Do some authors tend to have longer quotes than others?
+9.Is the distribution of quotes balanced across authors, or are a few authors dominating the dataset?
+10.Are there any unusual characters, formatting issues, or inconsistencies in the text data?
+11.What themes or topics appear most frequently in the quotes?
+12.Is the dataset suitable for further text analysis, sentiment analysis, or visualization?
 
 
 # Explore the Data Structure
